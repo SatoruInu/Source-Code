@@ -1,2 +1,2 @@
 # Source-Code
-Satoru Inu ($SATO) ERC-20 Contract code. https://satorutoken.com
+Satoru Inu ($SATO) ERC-20 Contract code
